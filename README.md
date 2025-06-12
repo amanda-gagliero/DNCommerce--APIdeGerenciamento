@@ -6,7 +6,7 @@ Este projeto foi desenvolvido para o desafio da DNCommerce, com o objetivo de cr
 
 Abaixo está o diagrama com as relações entre as entidades do banco de dados:
 
-![Modelo Entidade-Relacionamento](./mer.png)
+![Modelo Entidade-Relacionamento](./mer.png.png)
 
 ## 📦 Funcionalidades Implementadas
 
