@@ -34,4 +34,3 @@ Abaixo está o diagrama com as relações entre as entidades do banco de dados:
 
 ---
 
-Feito com 💙 por Amanda.
